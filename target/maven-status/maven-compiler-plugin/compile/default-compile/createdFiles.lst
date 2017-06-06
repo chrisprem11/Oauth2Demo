@@ -1,0 +1,13 @@
+test\demo\security\OAuth2SecurityConfiguration.class
+test\demo\security\ResourceServerConfiguration.class
+test\demo\service\UserServiceImpl.class
+test\demo\config\AppConfig.class
+test\demo\controller\AppController.class
+test\demo\security\SecurityWebApplicationInitializer.class
+test\demo\security\MethodSecurityConfig.class
+test\demo\service\UserService.class
+test\demo\model\AuthTokenInfo.class
+test\demo\security\AuthorizationServerConfiguration.class
+test\demo\config\CORSFilter.class
+test\demo\model\User.class
+test\demo\config\AppInitializer.class
